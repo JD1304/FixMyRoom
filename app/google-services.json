@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "698885184085",
+    "firebase_url": "https://fixmyroom-ef0ba-default-rtdb.firebaseio.com",
+    "project_id": "fixmyroom-ef0ba",
+    "storage_bucket": "fixmyroom-ef0ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698885184085:android:e0c63e787c5cd39e0c12dc",
+        "android_client_info": {
+          "package_name": "com.example.fixmyroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQm9cFN9MkK35mGevR_UTL8Om0szaBMYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
